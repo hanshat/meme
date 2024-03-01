@@ -17,7 +17,7 @@
   "keywords": [
     "meme generator"
   ],
-  "author": "George Raptis <georapbox@gmail.com>",
+  "author": "Hans Temu <elhancejctz@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@parcel/packager-raw-url": "~2.11.0",
